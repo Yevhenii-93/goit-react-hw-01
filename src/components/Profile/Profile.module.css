@@ -1,0 +1,21 @@
+.container {
+  border: 1px solid #fafafa;
+  padding: 10px;
+}
+.userProfile {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-bottom: 24px;
+}
+
+.userPhoto {
+  width: 240px;
+  margin: 0 auto;
+}
+
+.statsInfo {
+  display: flex;
+  gap: 6px;
+  justify-content: center;
+}

@@ -1,0 +1,25 @@
+.container {
+  width: 100%;
+  margin: 0 auto;
+  background-color: aqua;
+}
+
+.head {
+  background-color: #000;
+  color: #fff;
+}
+
+.withdrawal {
+  background-color: red;
+  color: blue;
+}
+
+.invoice {
+  background-color: grey;
+  color: #000;
+}
+
+.payment {
+  background-color: yellowgreen;
+  color: #311717;
+}
