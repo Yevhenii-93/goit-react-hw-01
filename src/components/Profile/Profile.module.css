@@ -1,6 +1,7 @@
 .container {
   border: 1px solid #fafafa;
   padding: 10px;
+  margin-bottom: 24px;
 }
 .userProfile {
   display: flex;
